@@ -1,0 +1,89 @@
+Finished after: 5 Iterations. 
+
+
+Centroid 1 has 77% cohesion
+The most common class is Iris-versicolor
+It contained: 
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-versicolor
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+
+Centroid 2 has 100% cohesion
+The most common class is Iris-setosa
+It contained: 
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+Iris-setosa
+
+Centroid 3 has 95% cohesion
+The most common class is Iris-virginica
+It contained: 
+Iris-versicolor
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
+Iris-virginica
